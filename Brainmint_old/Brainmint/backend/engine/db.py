@@ -4,7 +4,7 @@ def get_db():
     return pymysql.connect(
         host="localhost",
         user="root",
-        password="12345",
+        password="**",
         database="brainmint",
         cursorclass=pymysql.cursors.DictCursor
     )
