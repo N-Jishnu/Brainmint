@@ -165,4 +165,3 @@ Endpoints are defined under `engine/urls.py` and implemented in `engine/views.py
 - Empty dashboards:
   - Create a user via `/signup` and add tasks/sprints via the UI so reports have data.
 
-## Project Structure (Primary)
